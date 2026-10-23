@@ -1,0 +1,7 @@
+Role	                Name	           Department	         Email	     Password
+Administrator	System Administrator	All Departments	admin@campus.edu	Admin@123
+Department Head	Rahul Sharma	Facilities	rahul.head@campus.edu	 
+Resolution Officer	Amit Patil	Facilities	amit.officer@campus.edu	Officer@123
+Resolution Officer	Priya Deshmukh	IT Maintenance	priya.officer@campus.edu	Officer@456
+Student	Aarav Kulkarni	Computer Engineering	aarav.student@campus.edu	Student@123
+Student	Sneha Joshi	AI & Data Science	sneha.student@campus.edu	Student@456
